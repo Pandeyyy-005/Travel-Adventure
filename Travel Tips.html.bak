@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center>
+  <a href="Home.html">Home</a>&nbsp;
+  <a href="Destinations.html">Destinations</a>&nbsp;
+  <a href="Travel Blog.html">Travel Blog</a>&nbsp;
+  <a href="Travel Tips.html">Travel Tips</a>&nbsp;
+  <a href="Register.html">Register</a>&nbsp;
+  <a href="Login.html">Login</a>&nbsp;
+  <a href="Contact.html">Contact</a>&nbsp;</center>
+  <hr>
+  <h2>List of travel tips</h2>
+  <ul>
+	<li>Pack Light</li>
+	<li>Stay Hydrated</li>
+	<li>Keep Your Document safe </li>
+  </ul>
+  <hr>
+  <center>
+  &copy;All The Rights Are Reserved By Travel & Adventure
+  </center>
+ </body>
+</html>

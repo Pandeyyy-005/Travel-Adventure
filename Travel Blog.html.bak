@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center>
+  <a href="Home.html">Home</a>&nbsp;
+  <a href="Destinations.html">Destinations</a>&nbsp;
+  <a href="Travel Blog.html">Travel Blog</a>&nbsp;
+  <a href="Travel Tips.html">Travel Tips</a>&nbsp;
+  <a href="Register.html">Register</a>&nbsp;
+  <a href="Login.html">Login</a>&nbsp;
+  <a href="Contact.html">Contact</a>&nbsp;
+  <hr>
+  <h2>Blog Related to Taj Mahal</h2>
+  <pre>The Taj Mahal, located in Agra, India, is one of the most iconic symbols of love in the world. 
+       Built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal, this white marble masterpiece attracts millions of visitors every year.
+       Its symmetrical gardens, intricate carvings, and changing colors at sunrise and sunset create a magical experience.
+       The Taj Mahal is not just a monument but a timeless expression of devotion,craftsmanship, and architectural brilliance.</pre>>
+  <h2>Blog Related to Paris</h2>
+  <pre>Paris, known as the “City of Love,” is famous for its romantic charm, historic monuments, and artistic heritage.
+  Attractions like the Eiffel Tower, Louvre Museum, and charming cafés along the Seine make Paris a dream destination. 
+  The city is also a fashion and culinary capital, offering world-class shopping and cuisine.
+  Walking through Paris feels like stepping into a living museum filled with elegance, culture, and timeless beauty.</pre>>
+  <h2>Blog Related to Cape Town</h2>
+  <pre>Cape Town is one of the most scenic cities in the world, surrounded by mountains, beaches, and ocean views.
+  Table Mountain, Cape Point, and nearby vineyards make it a paradise for nature lovers and photographers. 
+  The city is rich in history, culture, and biodiversity, offering a relaxed yet adventurous atmosphere.
+  Cape Town’s natural beauty and vibrant lifestyle create a memorable experience for every visitor.</pre>>
+  <h2>Blog Related to New York City</h2>
+  <pre>New York City, often called “The City That Never Sleeps,” is a global hub of culture, finance, and entertainment. 
+  Landmarks like Times Square, Central Park, and the Statue of Liberty define its dynamic character. 
+  The city’s diversity is reflected in its neighborhoods, food, art, and music scenes. 
+  Whether it’s Broadway shows, towering skyscrapers, or vibrant street life, New York City offers unforgettable experiences at every corner.</pre>>
+  <h2>Blog Related to Dubai</h2>
+  <pre>Dubai is a city of luxury, innovation, and futuristic architecture rising from the desert.
+  Known for landmarks like Burj Khalifa, Palm Jumeirah, and vast shopping malls, Dubai showcases rapid development and modern lifestyle.
+  Along with luxury, the city also offers cultural experiences through traditional souks, desert safaris, and Emirati heritage sites. 
+  Dubai perfectly combines tradition with modern ambition, making it a unique global destination.</pre>>
+  <h2>Blog Related to Tokyo</h2>
+  <pre>Tokyo is a fascinating city where ancient traditions blend seamlessly with cutting-edge technology.
+  From peaceful temples like Senso-ji to vibrant districts such as Shibuya and Akihabara, Tokyo offers something for every traveler. 
+  The city is famous for its efficient transport system, delicious cuisine like sushi and ramen, and seasonal beauty, 
+  especially during cherry blossom season. Tokyo’s energy, cleanliness, and innovation make it one of the most exciting cities in the world.</pre>
+  <video width="100" height="100" controls>
+	<source src="video.mp4" type="video/mp4">
+  </video>
+  <hr>
+  &copy;All The Rights Are Reserved By Travel & Adventure
+  </center>
+ </body>
+</html>
